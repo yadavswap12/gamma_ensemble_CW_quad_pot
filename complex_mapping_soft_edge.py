@@ -10,19 +10,11 @@ Created on Thu Nov 01 16:35:31 2018
 @author: yadav
 """
 
-# code to generate complex mapping J(s) for soft edge
+# code to generate complex mapping J(s) for soft edge.
 
-#https://stackoverflow.com/questions/16669428/process-very-large-20gb-text-file-line-by-line
-#modified from https://stackoverflow.com/questions/30216573/reading-specific-columns-from-a-text-file-in-python
-#https://docs.python.org/3.3/tutorial/inputoutput.html
-# code to generate complex mapping J(s)
-
-#https://stackoverflow.com/questions/16669428/process-very-large-20gb-text-file-line-by-line
-#modified from https://stackoverflow.com/questions/30216573/reading-specific-columns-from-a-text-file-in-python
-#https://docs.python.org/3.3/tutorial/inputoutput.html
 import math
 import cmath
-import numpy
+import numpy as np
 
 c1 = 1.0
 c1_short = 1.0
