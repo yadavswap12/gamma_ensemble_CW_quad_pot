@@ -12,7 +12,7 @@ Created on Fri Jan 25 23:42:12 2019
 #https://docs.python.org/3.3/tutorial/inputoutput.html
 import math
 import cmath
-import numpy
+import numpy as np
 
 #theta = 2.0
 #alpha=8.0
